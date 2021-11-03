@@ -1,0 +1,57 @@
+body{
+    background-color: pink;
+    margin: 10px 10px 10px 10px;
+    border: 2px solid black;
+}
+h1 .title{
+    justify-content: center;
+}
+footer .footer{
+    justify-content: center;
+}
+.main{
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.team1{
+    margin: 10px 10px 10px 10px;
+}
+.team2{
+    margin: 10px 10px 10px 10px;
+}
+.team3{
+    margin: 10px 10px 10px 10px;
+}
+.team4{
+    margin: 10px 10px 10px 10px;
+}
+.team5{
+    margin: 10px 10px 10px 10px;
+}
+.team1 img{
+     width: 400px;
+     height: 400px;
+     background: red no-repeat center center/cover;
+ }
+.team2 img{
+     width: 400px;
+     height: 400px;
+     background: red no-repeat center center/cover;
+ }
+.team3 img{
+     width: 400px;
+     height: 400px;
+     background: red no-repeat center center/cover;
+ }
+.team4 img{
+     width: 400px;
+     height: 400px;
+     background: red no-repeat center center/cover;
+ }
+.team5 img{
+     width: 400px;
+     height: 400px;
+     background: red no-repeat center center/cover;
+ }
